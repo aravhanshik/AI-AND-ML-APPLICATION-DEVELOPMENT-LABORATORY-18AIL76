@@ -6,7 +6,7 @@ AI-and-ML Application Development Laboratory for 7th Sem VTU Artificial Intellig
    
 2. Develop a program to apply K-means algorithm to cluster a set of data stored in .CSV file. Use the same data set for clustering using EM algorithm. Compare the results of these two algorithms and comment on the quality of clustering.
 
-3. Implement the non-parametric Locally Weighted Regressionalgorithm in order to fit data points. Select appropriate data set for your experiment and draw graphs.
+3. Implement the non-parametric Locally Weighted Regression algorithm in order to fit data points. Select appropriate data set for your experiment and draw graphs.
 
 4. Build an Artificial Neural Network by implementing the Backpropagation algorithm and test the same using appropriate data sets.
 
